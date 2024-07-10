@@ -11,3 +11,4 @@ packaging==23.1
 SQLAlchemy==2.0.21
 typing_extensions==4.8.0
 Werkzeug==2.3.7
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
